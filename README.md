@@ -1,26 +1,40 @@
-> ⚡ This is the baseline MØDLR Studio template.  
-> Use this template to create new add-on repos.
+# Smart Empties [ MODLR | EMPT ]
 
-# MØDLR Template Repo
-
-> Baseline template for new MØDLR Studio repositories.
-
-## What this gives you
-- Standard files (README, LICENSE, CHANGELOG, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY)
-- GitHub Actions: minimal **CI** (placeholder) and **Release** (on tags)
-- Issue/PR templates
-
-## How to use
-1. Click **Use this template** → create your new repo.
-2. Update this README with the project name and description.
-3. Choose **public** if you want free branch protections and secret scanning.
-4. Create a branch → open a PR → merge to `main`.
-
-## License
-This template ships with **GPL-3.0**. Replace only if your project requires a different license.
+**Precision empty placement and management for Blender — fast, deterministic, and undo-safe.**  
+Part of the MØDLR Tools suite.
 
 ---
 
-Status: CI seed run.
+## Features
+- Create empties directly from mesh selections (faces, edges, vertices).
+- Smart placement: nested, tagged, and purgable.
+- Flexible workflows for organization and hard-surface modeling.
+- Designed for clarity, precision, and undo-safe operations.
 
-Status: CODEOWNERS sanity check.
+---
+
+##     Installation
+1. Download the latest release from the [Releases](../../releases) page.
+2. In Blender: `Edit > Preferences > Add-ons > Install…`
+3. Select the downloaded `.zip` file and enable **Smart Empties**.
+
+---
+
+## Usage Basics
+- **Create** empties from selected geometry.  
+- **Tag** and filter empties for quick management.  
+- **Purge** when no longer needed, with safety checks.  
+
+*(Full documentation and workflow guides will come with v1.0.)*
+
+---
+
+## Support
+- 📌 Report bugs or request features via the [Issues](../../issues) tab.  
+- 🔒 Security vulnerabilities: see [SECURITY.md](SECURITY.md).  
+
+---
+
+## License
+This add-on is licensed under the terms of the **GPL-3.0-or-later**.  
+See the [LICENSE](LICENSE) file for details.
