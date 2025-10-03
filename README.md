@@ -18,3 +18,7 @@
 
 ## License
 This template ships with **GPL-3.0**. Replace only if your project requires a different license.
+
+---
+
+Status: CI seed run.
