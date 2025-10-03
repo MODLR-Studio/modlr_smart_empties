@@ -22,3 +22,5 @@ This template ships with **GPL-3.0**. Replace only if your project requires a di
 ---
 
 Status: CI seed run.
+
+Status: CODEOWNERS sanity check.
