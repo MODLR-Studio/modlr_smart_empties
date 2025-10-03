@@ -1,2 +1,9 @@
-# Update when collaborators join
-*  @MODLR-Studio/owners
+# Repo-wide default owner
+*                      @mod-lr
+
+# CI, docs, and policy
+/.github/workflows/**  @mod-lr
+/README.md             @mod-lr
+/CHANGELOG.md          @mod-lr
+/SECURITY.md           @mod-lr
+/LICENSE*              @mod-lr
