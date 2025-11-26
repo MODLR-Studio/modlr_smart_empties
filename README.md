@@ -23,14 +23,14 @@ These clips demonstrate the core workflows, speed, and clarity of the system.
 <br>
 <table>
   <tr>
-    <td><img src="media/empt_create_01_r.gif"  width="300"></td>
-    <td><img src="media/empt_replace_01_r.gif" width="300"></td>
-    <td><img src="media/empt_create_02_r.gif"  width="300"></td>
+    <td width="33%"><img src="media/empt_create_01_r.gif" alt="Create 01"></td>
+    <td width="33%"><img src="media/empt_replace_01_r.gif" alt="Replace 01"></td>
+    <td width="33%"><img src="media/empt_create_02_r.gif" alt="Create 02"></td>
   </tr>
   <tr>
-    <td><img src="media/empt_select_01_r.gif"  width="300"></td>
-    <td><img src="media/empt_adj_panel_01_r.gif" width="300"></td>
-    <td><img src="media/empt_cleanup_01_r.gif"  width="300"></td>
+    <td width="33%"><img src="media/empt_select_01_r.gif" alt="Select 01"></td>
+    <td width="33%"><img src="media/empt_adj_panel_01_r.gif" alt="Adjust Panel 01"></td>
+    <td width="33%"><img src="media/empt_cleanup_01_r.gif" alt="Cleanup 01"></td>
   </tr>
 </table>
 <br>
