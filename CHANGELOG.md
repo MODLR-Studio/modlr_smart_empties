@@ -1,3 +1,16 @@
+## [0.7.8-beta] — 2025-11-28
+
+- First public beta release.
+- Updated `bl_info` metadata for clearer presentation in Blender:
+  - Name: **Smart Empties [ MODLR ]**
+  - Location path: **3D Viewport > Sidebar (N-panel) > MØDLR SMART > Smart Empties [ SMART ]**
+  - Description now references the **MØDLR SMART Tools** suite.
+- Added live documentation and issue links (`doc_url` and `tracker_url`) pointing to the MØDLR Studio GitHub repository.
+- Added a **“Beta release”** warning in `bl_info["warning"]` to clearly indicate pre-stable status.
+- Aligned UI branding with metadata: panel label set to **Smart Empties [ SMART ]** and N-panel category set to **MØDLR SMART**.
+
+---
+
 ## [0.7.8] — 2025-09-29
 
 - Added DEV_BUILD gating to safely separate development and release builds.
