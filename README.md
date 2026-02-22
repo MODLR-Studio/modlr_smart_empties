@@ -1,4 +1,4 @@
-# Smart Empties · MØDLR SMART Tools
+# Smart Empties · MØDLR Tools
 
 Precision empty placement and management for Blender — **fast, deterministic, and undo-safe**.<br>
 Part of the **MØDLR SMART Tools** suite.<br>
