@@ -1,9 +1,10 @@
 # Smart Empties · MØDLR Tools
 
 Precision empty placement and management for Blender — **fast, deterministic, and built for structured workflows.**<br>
-A **MØDLR Tools** product.
-<br>
-<br>
+A **MØDLR Tools** product.<br>
+
+**Status:** Currently in development. The previous public beta has been withdrawn while Smart Empties is prepared for a future public release.
+
 *Each section builds on the last — read top to bottom for full context.*
 
 ---
