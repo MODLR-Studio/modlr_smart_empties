@@ -1,7 +1,7 @@
 # Smart Empties · MØDLR Tools
 
-Precision empty placement and management for Blender — **fast, deterministic, and undo-safe**.<br>
-Part of the **MØDLR SMART Tools** suite.<br>
+Precision empty placement and management for Blender — **fast, deterministic, and built for structured workflows.**<br>
+A **MØDLR Tools** product.
 <br>
 <br>
 *Each section builds on the last — read top to bottom for full context.*
@@ -142,24 +142,24 @@ Always moving forward — built to keep getting smarter.
 
 ---
 
-## About MØDLR SMART Tools
-*The ecosystem behind Smart Empties:*
+## About MØDLR Tools
+*The product line behind Smart Empties:*
 
 
-**MØDLR SMART Tools** is a collection of high-performance Blender add-ons built for precision, polish, and creative flow. Each tool stands on its own but follows a shared design philosophy: fast interaction, minimal friction, and clean, predictable workflows.
+**MØDLR Tools** is the Blender add-on line developed under **MØDLR Studio**, focused on precision, clear interaction, and structured workflows. Each tool stands on its own while following a shared design philosophy: predictable behavior, minimal friction, and deliberate control.
 
-Every add-on is fully independent yet immediately familiar — consistent controls, aligned behavior, and a modern, production-minded experience.
+Every add-on is independently designed while sharing a consistent approach to usability, workflow clarity, and interaction.
 
 *Modular by design. Connected by purpose.*
 
 ---
 
 ## Support & Feedback
-- **Website:** [modlr.tools](https://modlr.tools)
+- **GitHub:** https://github.com/MODLR-Studio
 - **Support:** [support@modlr.tools](mailto:support@modlr.tools)
 - **Studio Contact:** [studio@modlr.tools](mailto:studio@modlr.tools)
 
 ---
 
-© 2025 MØD:LR  •  MØDLR Studio<br>
-Part of the **MØDLR SMART Tools** suite.
+© 2026 MØD:LR  •  MØDLR Studio  
+A **MØDLR Tools** product.
